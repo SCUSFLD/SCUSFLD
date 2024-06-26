@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SCUSFLD
+ - 👋 Hi, I’m @SCUSFLD
 - 👀 I’m interested in creating learning activities in GitHub.
 - 🌱 I’m currently learning how to integrate GitHub activities into Canvas LMS.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a 🐕 labradoodle named🍜 Ramen.
 
 <!---
 SCUSFLD/SCUSFLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
